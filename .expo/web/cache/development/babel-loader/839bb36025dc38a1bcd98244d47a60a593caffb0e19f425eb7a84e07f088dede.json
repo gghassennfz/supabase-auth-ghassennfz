@@ -1,0 +1,1 @@
+{"ast":null,"code":"import App from \"./src\";\nexport default App;","map":{"version":3,"names":["App"],"sources":["C:/Users/Ghassen/Desktop/supabe/app/App.tsx"],"sourcesContent":["import App from './src';\r\n\r\nexport default App;\r\n"],"mappings":"AAAA,OAAOA,GAAG;AAEV,eAAeA,GAAG","ignoreList":[]},"metadata":{},"sourceType":"module","externalDependencies":[]}
